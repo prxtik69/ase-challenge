@@ -88,14 +88,6 @@ POST / api / checkout;
 // Returns: { success: true, orderId: string, totalAmount: number }
 ```
 
-## What I Learned Building This 🎓
-
-1. **Data Layer Design**: How to structure product data properly instead of hardcoding everywhere
-2. **Error Handling**: Implementing proper error boundaries and validation
-3. **State Management**: Using React Context effectively for cart state
-4. **TypeScript**: Leveraging types for better developer experience
-5. **Testing**: Writing meaningful tests for API endpoints
-
 ## Testing (Because Quality Matters) 🧪
 
 ```bash
